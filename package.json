@@ -1,0 +1,17 @@
+{
+  "name": "begin-ava-example",
+  "version": "1.0.0",
+  "description": "Begin example: learn JavaScript testing with Node.js and AVA",
+  "scripts": {
+    "start": "npx sandbox",
+    "test": "ava"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@architect/sandbox": "^1.7.2",
+    "@begin/data": "^1.2.0",
+    "ava": "^3.5.0",
+    "tiny-json-http": "^7.1.2"
+  }
+}
